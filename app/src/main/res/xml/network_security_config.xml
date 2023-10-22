@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!--    http로 접속 허용할 URL-->
+<!--    <domain-config cleartextTrafficPermitted="true">-->
+<!--        <domain includeSubdomains="true">http://lokiquants.iptime.org:7124/loki-system/lineCompany/line/{code}</domain>-->
+<!--    </domain-config>-->
+
+    <!--아래는 반드시 https로 접속해야 할 주소-->
+<!--    <domain-config cleartextTrafficPermitted="false">-->
+<!--        <domain includeSubdomains="true">cartoon.media.daum.net</domain>-->
+<!--    </domain-config>-->
+</network-security-config>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ryong/Desktop/lokisystem/lokisystem/app/src/main/res/drawable-v24/bottom_nav_button.xml" value="0.193" />
+        <entry key="..\:/Users/ryong/Desktop/lokisystem/lokisystem/app/src/main/res/drawable-v24/divider.xml" value="0.1" />
+        <entry key="..\:/Users/ryong/Desktop/lokisystem/lokisystem/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.363" />
+        <entry key="..\:/Users/ryong/Desktop/lokisystem/lokisystem/app/src/main/res/drawable-v24/ic_samsung_logo_24dp.xml" value="0.33" />
+        <entry key="..\:/Users/ryong/Desktop/lokisystem/lokisystem/app/src/main/res/drawable-v24/layout_search_background.xml" value="0.155" />
+        <entry key="..\:/Users/ryong/Desktop/lokisystem/lokisystem/app/src/main/res/drawable/bottom_nav_button.xml" value="0.2005" />
+        <entry key="..\:/Users/ryong/Desktop/lokisystem/lokisystem/app/src/main/res/drawable/ic_invest_24dp.xml" value="0.193" />
+        <entry key="..\:/Users/ryong/Desktop/lokisystem/lokisystem/app/src/main/res/drawable/ic_launcher_background.xml" value="0.363" />
+        <entry key="..\:/Users/ryong/Desktop/lokisystem/lokisystem/app/src/main/res/drawable/ic_model_24dp.xml" value="0.363" />
+        <entry key="..\:/Users/ryong/Desktop/lokisystem/lokisystem/app/src/main/res/drawable/ic_search_24dp.xml" value="0.363" />
+        <entry key="..\:/Users/ryong/Desktop/lokisystem/lokisystem/app/src/main/res/drawable/ic_theme_24dp.xml" value="0.363" />
+        <entry key="..\:/Users/ryong/Desktop/lokisystem/lokisystem/app/src/main/res/drawable/layout_background.xml" value="0.363" />
+        <entry key="..\:/Users/ryong/Desktop/lokisystem/lokisystem/app/src/main/res/drawable/layout_search_background.xml" value="0.155" />
+        <entry key="..\:/Users/ryong/Desktop/lokisystem/lokisystem/app/src/main/res/drawable/layout_textview_background.xml" value="0.2285" />
+        <entry key="..\:/Users/ryong/Desktop/lokisystem/lokisystem/app/src/main/res/drawable/layout_theme_background.xml" value="0.363" />
+        <entry key="..\:/Users/ryong/Desktop/lokisystem/lokisystem/app/src/main/res/layout-v26/fragment_model.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/ryong/Desktop/lokisystem/lokisystem/app/src/main/res/layout-v28/fragment_category.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/ryong/Desktop/lokisystem/lokisystem/app/src/main/res/layout-v28/fragment_model.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/ryong/Desktop/lokisystem/lokisystem/app/src/main/res/layout/activity_company_detail.xml" value="0.1" />
+        <entry key="..\:/Users/ryong/Desktop/lokisystem/lokisystem/app/src/main/res/layout/activity_detail.xml" value="0.15391192817443353" />
+        <entry key="..\:/Users/ryong/Desktop/lokisystem/lokisystem/app/src/main/res/layout/activity_detail_view.xml" value="0.15217391304347827" />
+        <entry key="..\:/Users/ryong/Desktop/lokisystem/lokisystem/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/ryong/Desktop/lokisystem/lokisystem/app/src/main/res/layout/activity_search.xml" value="0.24027362120564344" />
+        <entry key="..\:/Users/ryong/Desktop/lokisystem/lokisystem/app/src/main/res/layout/fragment_category.xml" value="0.38620689655172413" />
+        <entry key="..\:/Users/ryong/Desktop/lokisystem/lokisystem/app/src/main/res/layout/fragment_company_detail.xml" value="0.3048245614035088" />
+        <entry key="..\:/Users/ryong/Desktop/lokisystem/lokisystem/app/src/main/res/layout/fragment_invest.xml" value="0.4925925925925926" />
+        <entry key="..\:/Users/ryong/Desktop/lokisystem/lokisystem/app/src/main/res/layout/fragment_model.xml" value="0.33" />
+        <entry key="..\:/Users/ryong/Desktop/lokisystem/lokisystem/app/src/main/res/layout/fragment_search.xml" value="0.17603850050658562" />
+        <entry key="..\:/Users/ryong/Desktop/lokisystem/lokisystem/app/src/main/res/layout/fragment_sub_category.xml" value="0.15391192817443353" />
+        <entry key="..\:/Users/ryong/Desktop/lokisystem/lokisystem/app/src/main/res/layout/fragment_theme.xml" value="0.17603850050658562" />
+        <entry key="..\:/Users/ryong/Desktop/lokisystem/lokisystem/app/src/main/res/layout/list_item.xml" value="0.2501068832834545" />
+        <entry key="..\:/Users/ryong/Desktop/lokisystem/lokisystem/app/src/main/res/layout/recycler_list.xml" value="0.33" />
+        <entry key="..\:/Users/ryong/Desktop/lokisystem/lokisystem/app/src/main/res/layout/recycler_search_list.xml" value="0.41536513296749683" />
+        <entry key="..\:/Users/ryong/Desktop/lokisystem/lokisystem/app/src/main/res/layout/recycler_searchlist.xml" value="0.2509619495510902" />
+        <entry key="..\:/Users/ryong/Desktop/lokisystem/lokisystem/app/src/main/res/layout/recycler_test.xml" value="0.18426678067550234" />
+        <entry key="..\:/Users/ryong/Desktop/lokisystem/lokisystem/app/src/main/res/layout/recycler_theme.xml" value="0.4264919941775837" />
+        <entry key="..\:/Users/ryong/Desktop/lokisystem/lokisystem/app/src/main/res/menu/bottom_nav_manu_selector.xml" value="0.29628046173578454" />
+        <entry key="..\:/Users/ryong/Desktop/lokisystem/lokisystem/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20478837109876016" />
+      </map>
+    </option>
+  </component>
+  <component name="EntryPointsManager">
+    <pattern value="com.application.lokisystem.CustomDecoration" />
+    <pattern value="com.application.lokisystem.CustomDecoration" method="CustomDecoration" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Embedded JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.22" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

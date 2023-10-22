@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Dejavu</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dejaRevenueModel">데자뷰수익모델</string>
+    <string name="model">Model</string>
+    <string name="category">Category</string>
+    <string name="invest">Invest</string>
+    <string name="search">Search</string>
+    <string name="todayMarketStatus">현재시장상태</string>
+    <string name="standard">기준일</string>
+    <string name="ic_cloud">구름</string>
+    <string name="ic_rain">비</string>
+    <string name="ic_sun">맑음</string>
+    <string name="back_model">〈 Model</string>
+    <string name="back_category">〈 Category</string>
+    <string name="back_search">〈 Search</string>
+    <string name="back_invest">〈 Invest</string>
+    <string name="top5">TOP5</string>
+    <string name="marketStatusImage">weather</string>
+    <string name="score">데자뷰 스코어 : </string>
+    <string name="point">점</string>
+    <string name="detail_show">자세히보기</string>
+    <string name="trading_Halt">거래정지</string>
+    <string name="samsung">삼성전자</string>
+    <string name="samsung_logo">S</string>
+    <string name="_5">5</string>
+    <string name="click"><![CDATA[>]]></string>
+    <string name="kospi">KOSPI</string>
+    <string name="loading">Loading ...</string>
+    <string name="company_logo">company_logo</string>
+</resources>

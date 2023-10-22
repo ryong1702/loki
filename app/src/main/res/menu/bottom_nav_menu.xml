@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_model"
+        android:icon="@drawable/ic_model_24dp"
+        android:title="@string/model" />
+
+    <item
+        android:id="@+id/navigation_theme"
+        android:icon="@drawable/ic_theme_24dp"
+        android:title="@string/category" />
+
+<!--    <item-->
+<!--        android:id="@+id/navigation_invest"-->
+<!--        android:icon="@drawable/ic_invest_24dp"-->
+<!--        android:title="@string/invest" />-->
+
+    <item
+        android:id="@+id/navigation_search"
+        android:icon="@drawable/ic_search_24dp"
+        android:title="@string/search" />
+</menu>
